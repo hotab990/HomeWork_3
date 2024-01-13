@@ -2,7 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
+HW3_Task_2/[Ll]ibrary/
+HW3_Task_3/[Ll]ibrary/
+HW3_Task_4/[Ll]ibrary/
+HW3_Task_5/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
